@@ -49,4 +49,4 @@ O recurso foi desenvolvido utilizando CSS, por meio das propriedades:
 
 **Repositório GitHub:** https://github.com/jessykah/portfolio-pessoal
 
-**Site publicado:** Aguardando publicação no GitHub Pages.
+**Site publicado:** [Aguardando publicação no GitHub Pages.](https://jessykah.github.io/portfolio-pessoal/)
